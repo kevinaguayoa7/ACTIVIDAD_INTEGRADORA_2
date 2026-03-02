@@ -1,0 +1,1 @@
+ C:\\Users\\uga2b\\Desktop\\actividad\ integradora\ 2\ Joselyn\ apps\ moviles\\mini_app_usuario\\build\\51b1846360779eaff0ae9b003ef8078b\\dart_build_result.json: 
